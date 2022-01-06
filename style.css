@@ -5,7 +5,6 @@ body{
 }
 section{
     display: flex;
-    margin-left: 130px;
 }
 .border-color{
     border-left: 4px orangered solid;
@@ -88,6 +87,10 @@ section{
     border-radius: 100px;
     margin-top: 60px;
     margin-left: 8%;
+}
+.smalltext{
+    font-size: 10px;
+    margin-bottom: 40px;
 }
 .ftcolor{
     color: turquoise;
