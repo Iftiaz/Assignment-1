@@ -5,6 +5,7 @@ body{
 }
 section{
     display: flex;
+    margin-left: 130px;
 }
 .border-color{
     border-left: 4px orangered solid;
@@ -12,6 +13,7 @@ section{
 }
 .widtset{
     width: 50%;
+    margin-left: 50px;
     
 }
 .expn{
@@ -20,7 +22,7 @@ section{
     border-radius: 6px;
 }
 .falt{
-    
+    margin-left: 130px;
 }
 .mission{
     margin-left: 450px;
@@ -80,6 +82,12 @@ section{
     padding-top: 20px;
     font-size: 25px;
 
+}
+.omicron{
+    width: 450px;
+    border-radius: 100px;
+    margin-top: 60px;
+    margin-left: 8%;
 }
 .ftcolor{
     color: turquoise;
